@@ -1,4 +1,2 @@
 # Kaggle
-ross mann and Titanice contest
-Added some code.
-New contest is coming
+Codes of kaggle data exploration and models are here

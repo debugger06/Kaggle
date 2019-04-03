@@ -1,2 +1,2 @@
 # Kaggle
-Codes of kaggle data exploration and models are here.
+Codes of kaggle data exploration and models are here
